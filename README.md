@@ -2,8 +2,17 @@
 **Software developer dari Indonesia🇮🇩**<br><br>🗓️ Coding sejak 2019<br>📌 Tinggal di Indonesia, Makassar<br>✨ Ingin jadi orang kaya.
 
 <h2 align="center">⚒🌐 Sosial Media 🌐⚒</h2>
-
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@DAPICODE)
+<div align="center"> 
+  <a href="mailto:dapicode@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.youtube.com/@DAPICODE" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://thisdapa.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
 
 <h2 align="center">⚒️ Bahasa & Tools ⚒️</h2>
