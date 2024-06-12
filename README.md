@@ -1,11 +1,11 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=This%20Is%20Dapa;%20Seseorang%20Yang%20Ingin%20Menjadi%20IronMan%20;%20Ingin%20Mempelajari%20Hal%20Baru%20&font=Righteous&center=true&width=900&height=45&color=FFFFFF&vCenter=true&pause=850&size=35" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=This%20Is%20Dapa.;%20Seseorang%20Yang%20Ingin%20Menjadi%20IronMan%20&font=Righteous&center=true&width=900&height=45&color=FFFFFF&vCenter=true&pause=850&size=35" />
   </a>
 </p>
 
-
+<br>
 ## 💫 About Me
 **Manusia dari Indonesia🇮🇩**<br><br>
 👋 Halo! Saya seorang manusia dari Indonesia yang telah berkecimpung dalam dunia coding sejak 2019. Saya tinggal di Makassar dan Ingin mempelajari hatimu❤️<br><br>
