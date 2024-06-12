@@ -38,11 +38,11 @@
 </div>
 <br/>
 
-<h2 align="center">⚒📊 My Stats 📊</h2>
+<h2 align="center">📊 My Stats 📊</h2>
 <br/>
 <div align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=thisdapa&show_icons=true&theme=radical" style="display: block; margin: auto;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisdapa&layout=compact&theme=radical" style="display: block; margin: auto;">
 </div>
 
 
