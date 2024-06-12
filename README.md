@@ -19,7 +19,6 @@
 </p>
 
 <br/>
----
 
 <h2 align="center">❔ About Me ❔</h2>
 
@@ -31,7 +30,6 @@
   <p>✨ <strong>Ingin menjadi IronMan</strong></p>
   <br/><br/>
 </div>
----
 
 <h2 align="center">🌐 Sosial Media 🌐</h2>
 <div align="center"> 
@@ -46,7 +44,6 @@
   </a>
   <br/><br/>
 </div>
----
 
 <h2 align="center">⚒️ Bahasa & Tools ⚒️</h2>
 <br/>
@@ -55,7 +52,6 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 <br/><br/><br/>
 </div>
----
 
 <h2 align="center">📊 My Stats 📊</h2>
 <br/>
@@ -64,7 +60,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisdapa&layout=compact&theme=dark" style="display: block; margin: auto;">
 <br/><br/>
 </div>
----
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -72,13 +67,10 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
   <br/><br/>
+</div> 
+
+<div align="center">
+<a href='[https://ko-fi.com/V7V4RAK9C](https://saweria.co/ThisIsDapa)' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me Coffe' /></a>
 </div>
 
----
-[![](https://visitcount.itsvg.in/api?id=ThisDapa&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://saweria.co/ThisIsDapa) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
