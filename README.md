@@ -20,7 +20,7 @@
 
 <br/>
 
-<h2 align="center">❔ About Me ❔</h2>
+<h2 align="center">📌 About Me 📌</h2>
 
 <div>
   <p><strong>Manusia dari Indonesia🇮🇩</strong></p>
@@ -69,10 +69,4 @@
   
   <br/><br/>
 </div> 
-
-<br/>
-<div align="center">
-<a href='[https://saweria.co/ThisIsDapa](https://saweria.co/ThisIsDapa)' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me Coffe' /></a>
-</div>
-
 <br/>
