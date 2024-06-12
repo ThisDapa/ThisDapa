@@ -7,7 +7,7 @@
 
 <h2 align="center">❔ About Me ❔</h2>
 
-<div align="center">
+<div>
   <p><strong>Manusia dari Indonesia🇮🇩</strong></p>
   <p>👋 Halo! Saya seorang manusia dari Indonesia yang telah berkecimpung dalam dunia coding sejak 2019. Saya tinggal di Makassar dan Ingin mempelajari hatimu❤️</p>
   <p>🗓️ <strong>Coding sejak 2019</strong></p>
