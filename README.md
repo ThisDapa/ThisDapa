@@ -16,7 +16,7 @@
 </div>
 
 
-<h2 align="center">⚒🌐 Sosial Media 🌐⚒</h2>
+<h2 align="center">🌐 Sosial Media 🌐</h2>
 <div align="center"> 
   <a href="mailto:dapicode@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
