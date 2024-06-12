@@ -5,7 +5,7 @@
   </a>
 </p>
 
-<br>
+<br/>
 ## 💫 About Me
 **Manusia dari Indonesia🇮🇩**<br><br>
 👋 Halo! Saya seorang manusia dari Indonesia yang telah berkecimpung dalam dunia coding sejak 2019. Saya tinggal di Makassar dan Ingin mempelajari hatimu❤️<br><br>
