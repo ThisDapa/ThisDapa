@@ -19,6 +19,7 @@
 </p>
 
 <br/>
+---
 
 <h2 align="center">❔ About Me ❔</h2>
 
@@ -28,9 +29,9 @@
   <p>🗓️ <strong>Coding sejak 2019</strong></p>
   <p>📌 <strong>Tinggal di Indonesia, Makassar</strong></p>
   <p>✨ <strong>Ingin menjadi IronMan</strong></p>
-  <br/><br/><br/>
+  <br/><br/>
 </div>
-
+---
 
 <h2 align="center">🌐 Sosial Media 🌐</h2>
 <div align="center"> 
@@ -43,9 +44,9 @@
   <a href="https://thisdapa.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
-  <br/><br/><br/>
+  <br/><br/>
 </div>
-
+---
 
 <h2 align="center">⚒️ Bahasa & Tools ⚒️</h2>
 <br/>
@@ -54,21 +55,23 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 <br/><br/><br/>
 </div>
+---
 
 <h2 align="center">📊 My Stats 📊</h2>
 <br/>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thisdapa&show_icons=true&theme=dark" style="display: block; margin: auto;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisdapa&layout=compact&theme=dark" style="display: block; margin: auto;">
-<br/><br/><br/>
+<br/><br/>
 </div>
+---
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+  <br/><br/>
 </div>
 
 ---
