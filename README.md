@@ -1,8 +1,10 @@
 # 💫 About Me:
 **Software developer dari Indonesia🇮🇩**<br><br>🗓️ Coding sejak 2019<br>📌 Tinggal di Indonesia, Makassar<br>✨ Ingin jadi orang kaya.
 
-<h2 align="center">⚒🌐 Sosial Media🌐</h2>
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@DAPICODE) 
+<h2 align="center">⚒🌐 Sosial Media 🌐⚒</h2>
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@DAPICODE)
+
 
 <h2 align="center">⚒️ Bahasa & Tools ⚒️</h2>
 <br/>
