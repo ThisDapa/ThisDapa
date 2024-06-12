@@ -50,7 +50,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,html,css,vscode,github,figma,git,htmx" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,cs,go,lua,ubuntu,tensorflow,discordjs,bun,bash" /><br>
-    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,vscode,linux,electron,nginx,npm,yarn,opencv,redis,npm,postman,replit" /><br>
+    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,vscode,linux,electron,nginx,npm,yarn,opencv,redis,npm,postman,replit,azure,aws,cloudflare,bots" /><br>
 <br/><br/><br/>
 </div>
 
