@@ -5,13 +5,16 @@
   </a>
 </p>
 
-<br/>
-## 💫 About Me
-**Manusia dari Indonesia🇮🇩**<br><br>
-👋 Halo! Saya seorang manusia dari Indonesia yang telah berkecimpung dalam dunia coding sejak 2019. Saya tinggal di Makassar dan Ingin mempelajari hatimu❤️<br><br>
-🗓️ **Coding sejak 2019**<br>
-📌 **Tinggal di Indonesia, Makassar**<br>
-✨ **Ingin menjadi IronMan**<br>
+<h2 align="center">❔ About Me ❔</h2>
+
+<div align="center">
+  <p><strong>Manusia dari Indonesia🇮🇩</strong></p>
+  <p>👋 Halo! Saya seorang manusia dari Indonesia yang telah berkecimpung dalam dunia coding sejak 2019. Saya tinggal di Makassar dan Ingin mempelajari hatimu❤️</p>
+  <p>🗓️ <strong>Coding sejak 2019</strong></p>
+  <p>📌 <strong>Tinggal di Indonesia, Makassar</strong></p>
+  <p>✨ <strong>Ingin menjadi IronMan</strong></p>
+</div>
+
 
 <h2 align="center">⚒🌐 Sosial Media 🌐⚒</h2>
 <div align="center"> 
