@@ -28,6 +28,7 @@
   <p>🗓️ <strong>Coding sejak 2019</strong></p>
   <p>📌 <strong>Tinggal di Indonesia, Makassar</strong></p>
   <p>✨ <strong>Ingin menjadi IronMan</strong></p>
+  <br/><br/><br/>
 </div>
 
 
@@ -42,6 +43,7 @@
   <a href="https://thisdapa.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+  <br/><br/><br/>
 </div>
 
 
@@ -50,14 +52,15 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+<br/><br/><br/>
 </div>
-<br/>
 
 <h2 align="center">📊 My Stats 📊</h2>
 <br/>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thisdapa&show_icons=true&theme=dark" style="display: block; margin: auto;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisdapa&layout=compact&theme=dark" style="display: block; margin: auto;">
+<br/><br/><br/>
 </div>
 
 <div align="center">
