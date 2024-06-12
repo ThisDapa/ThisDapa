@@ -3,11 +3,11 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=thisdapa&color=white)
 
 ## 💫 About Me
-**Software developer dari Indonesia🇮🇩**<br><br>
-👋 Halo! Saya seorang Software Developer dari Indonesia yang telah berkecimpung dalam dunia coding sejak 2019. Saya tinggal di Makassar dan Ingin mempelajari hatimu❤️<br><br>
+**Manusia dari Indonesia🇮🇩**<br><br>
+👋 Halo! Saya seorang manusia dari Indonesia yang telah berkecimpung dalam dunia coding sejak 2019. Saya tinggal di Makassar dan Ingin mempelajari hatimu❤️<br><br>
 🗓️ **Coding sejak 2019**<br>
 📌 **Tinggal di Indonesia, Makassar**<br>
-✨ **Ingin jadi orang kaya**<br>
+✨ **Ingin menjadi IronMan**<br>
 
 <h2 align="center">⚒🌐 Sosial Media 🌐⚒</h2>
 <div align="center"> 
