@@ -48,8 +48,9 @@
 <h2 align="center">⚒️ Bahasa & Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,html,css,vscode,github,figma,git,htmx" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,cs,go,lua,ubuntu,tensorflow,discordjs,bun,bash" /><br>
+    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,vscode,linux,electron,nginx,npm,yarn,opencv,redis,npm,postman,replit" /><br>
 <br/><br/><br/>
 </div>
 
