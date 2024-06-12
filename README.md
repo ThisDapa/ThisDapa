@@ -38,10 +38,13 @@
 </div>
 <br/>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ThisDapa&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ThisDapa&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThisDapa&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<h2 align="center">⚒📊 My Stats 📊</h2>
+<br/>
+<div align="center">
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+</div>
+
 
 ### 🔝 Top Contributed Repo
 <div align="center">
