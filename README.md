@@ -41,12 +41,10 @@
 <h2 align="center">📊 My Stats 📊</h2>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thisdapa&show_icons=true&theme=radical" style="display: block; margin: auto;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisdapa&layout=compact&theme=radical" style="display: block; margin: auto;">
+  <img src="https://github-readme-stats.vercel.app/api?username=thisdapa&show_icons=true&theme=dark" style="display: block; margin: auto;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisdapa&layout=compact&theme=dark" style="display: block; margin: auto;">
 </div>
 
-
-### 🔝 Top Contributed Repo
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
